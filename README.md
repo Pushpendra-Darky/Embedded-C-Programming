@@ -1,4 +1,4 @@
-# **Embedded C Programming Assignments**
+# **Embedded C Programming Code & Assignments**
 ## **Day1**
 - sizeof() Operator
 
@@ -9,10 +9,13 @@
 2. Write a program to demonstrate bitwise operators
 3. Develop a C program to add two operands and store the result in one of the operand using addition assignment operator.( a+=b is same as a=a+b)
 4. Write a C program to find the maximum of 2 numbers using Conditional operator.
-5. A C program contains the following declarations and initial assignments: 
-    int  i= 8, j = 5; 
-    float  x = 0.005,  y = 0.01; 
-    char c = ‘c’, d = ‘d’; 
+5. A C program contains the following declarations and initial assignments:
+     ```c
+     int  i= 8, j = 5;
+     float  x = 0.005,  y = 0.01;
+     char c = ‘c’, d = ‘d’;
+     ```
+
 - Determine the value of each of the following expressions. 
     - (3*i*j)%(2*d) 
     - (i*j)%(c+2*d) / (x*y) 
@@ -29,22 +32,28 @@
 2. Develop a C program to find sum of all odd numbers upto N using while loop. 
 3. Write a program to find whether given number is palindrome or not. 
 4. Write a program in C to display the pattern like right angle triangle as shown pattern below.
+```c
 1
 12
 123
 1234
+```
 
 5. Write a C program to display the pattern like right angle triangle as shown pattern below.
+```c
 1
 22
 333
 4444
+```
 
 6. Write a C program to display the pattern like right angle triangle as shown pattern below.
+```c
 1
 2 3
 4 5 6
 7 8 9 10
+```
 
 
 ## **Day4**
